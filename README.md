@@ -1,4 +1,5 @@
 1ra edición
+2da edición
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
